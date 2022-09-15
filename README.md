@@ -6,10 +6,10 @@
 
 <hr>
 
-<p>Welcome to Zuppio support central! Zuppio is a Salesforce devops tool with a caveat: everything it can do on one org can be done on hundreds of orgs in one iteration.</p>
+<p>Welcome to <b></b>**Zuppio** support central! **Zuppio** is a Salesforce devops tool with a caveat: everything it can do on one org can be done on hundreds of orgs in one iteration.</p>
 <ul>
-    <li>Zuppio  works with managed packages’ metadata simplifying the upgrade flow of a managed package - upgrade package versions, update subscriber-editable metadata and more, en masse.</li>
-    <li>connect Zuppio to your github or bitbucket and make it a part of your CI/CD pipeline: set up webhooks and trigger deploys on commit</li>
+    <li>**Zuppio**  works with managed packages’ metadata simplifying the upgrade flow of a managed package - upgrade package versions, update subscriber-editable metadata and more, en masse;</li>
+    <li>Connect Zuppio to your github or bitbucket and make it a part of your CI/CD pipeline: set up webhooks and trigger deploys on commit.</li>
 </ul>
 
 <p>Here you can log a case and our team will take care of it. For any other questions don’t hesitate to reach out at <a href="mailto:const@zupp.io">const@zupp.io</a> or via contact form on our website!</p>

@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <p align="center">
     <a href="ttps://zupp.io/">
-        <img width="150px" src="https://zupp.io/img/logo.png">
+        <img width="300px" src="https://zupp.io/img/logo.png">
     </a>
 </p>
 
@@ -14,7 +12,7 @@
     <li>connect Zuppio to your github or bitbucket and make it a part of your CI/CD pipeline: set up webhooks and trigger deploys on commit</li>
 </ul>
 
-<p>Here you can log a case and our team will take care of it. For any other questions don’t hesitate to reach out at const@zupp.io or via contact form on our website!</p>
+<p>Here you can log a case and our team will take care of it. For any other questions don’t hesitate to reach out at <a href="mailto:const@zupp.io">const@zupp.io</a> or via contact form on our website!</p>
 
 
 

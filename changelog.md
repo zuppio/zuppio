@@ -1,5 +1,12 @@
 # Release Notes
 
+### 1.42 (March 18, 2025)
+
+* Improved UI experience in Zuppio Organizations and Zuppio Jobs.
+* Minor changes to the name of the fields.
+* Added a package version display.
+* Performance improved.
+
 ### 1.41 (December 30, 2024)
 
 * Performance improved.

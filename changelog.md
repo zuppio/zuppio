@@ -1,5 +1,11 @@
 # Release Notes
 
+### 1.43 (May 26, 2025)
+
+* Performance improved.
+* Stability improvements.
+* Redesigned Home Page.
+
 ### 1.42 (March 18, 2025)
 
 * Improved UI experience in Zuppio Organizations and Zuppio Jobs.
